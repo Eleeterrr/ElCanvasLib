@@ -185,6 +185,11 @@ canvas.end();
 canvas.dispose();
 ```
 
+## Note
+
+Some of the math-related code in this library was written with the assistance of AI. The generated code was properly tested, reviewed, and checked to ensure it works as intended. Therefore, some parts of the codebase may have been created with AI assistance.
+
+
 ## Why
 
 Made this for myself, needed something for shape rendering that didn't make me deal with old stuff like tessellation.
